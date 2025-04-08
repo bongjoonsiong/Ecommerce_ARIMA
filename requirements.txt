@@ -4,4 +4,4 @@ numpy
 matplotlib
 statsmodels
 scikit-learn
-streamlitpip in
+streamlit
