@@ -1,0 +1,4 @@
+.venv313
+.streamlit/secrets.toml
+__pycache__/  # Python bytecode cache (optional but often good to ignore)
+*.pyc        # Compiled Python files (optional)
